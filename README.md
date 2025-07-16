@@ -1,5 +1,6 @@
-🛍️ Project Description: FINAL MAHNOOR’S STORE
-FINAL MAHNOOR’S STORE is a Java-based desktop application that simulates an interactive online shopping platform. It is developed as an educational project to demonstrate how an e-commerce system can be designed and implemented using graphical user interfaces and object-oriented programming principles.
+🛍️ Project Description: Semester Project for learning purpose
+
+SHOPAHOLIC is a Java-based desktop application that simulates an interactive online shopping platform. It is developed as an educational project to demonstrate how an e-commerce system can be designed and implemented using graphical user interfaces and object-oriented programming principles.
 
 The application provides a user-friendly environment where two types of users — Administrators and Customers — can perform specific tasks according to their roles. The platform enables customers to browse products, add items to their cart, and place orders, while administrators can manage product listings and categories through a dedicated admin dashboard.
 
@@ -57,5 +58,4 @@ The interface is designed to be intuitive, clean, and visually appealing, mimick
 🛒 Shopping Workflow
 The shopping experience is straightforward and streamlined. Once a customer logs in, they can explore product categories and view relevant items. Each product is displayed with its name, price, and a representative image. Products can be added to a cart with a single click. The cart shows a list of selected items along with quantities and prices. When ready, the customer proceeds to place an order using the order form, which includes confirmation messages upon success.
 
-The system is event-driven and reacts to user actions in real-time, ensuring a responsive and smooth user experience.
 
